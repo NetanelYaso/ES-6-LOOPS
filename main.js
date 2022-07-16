@@ -4,7 +4,6 @@ let user1 = {
     lname: "yaso"
 }
 
-
 function isAgeAbove18(userArray){
     userArray.forEach((user)=>{
         if(user.age<18){
